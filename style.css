@@ -1,0 +1,21 @@
+#heading{
+    color: blue;
+    font-size: 50px; 
+    text-decoration: underline;
+}
+*{
+    padding: 5px;
+    margin: auto;
+    margin-bottom: 30px;
+    padding-bottom: 15px;
+    text-align: center;
+}
+table th{
+    background-color: blueviolet; 
+    font-size: 25px;   
+}
+table,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    font-size: 20px;
+}
